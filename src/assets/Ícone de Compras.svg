@@ -1,0 +1,8 @@
+<svg id="Ícone_de_Compras" data-name="Ícone de Compras" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Ícone_de_Esportes" data-name="Ícone de Esportes">
+    <circle id="Elipse_2" data-name="Elipse 2" cx="50" cy="50" r="50" fill="#0da1ff"/>
+  </g>
+  <g id="Icon_material-shopping-cart" data-name="Icon material-shopping-cart" transform="translate(25 23.547)">
+    <path id="Icon_material-shopping-cart-2" data-name="Icon material-shopping-cart" d="M17.083,44.167a5,5,0,1,0,5,5,4.993,4.993,0,0,0-5-5Zm-15-40v5h5l9,18.975-3.375,6.125a4.834,4.834,0,0,0-.625,2.4,5.015,5.015,0,0,0,5,5h30v-5H18.133a.619.619,0,0,1-.625-.625l.075-.3,2.25-4.075H38.458a4.976,4.976,0,0,0,4.375-2.575l8.95-16.225a2.442,2.442,0,0,0,.3-1.2,2.507,2.507,0,0,0-2.5-2.5H12.608l-2.35-5H2.083Zm40,40a5,5,0,1,0,5,5A4.993,4.993,0,0,0,42.083,44.167Z" transform="translate(-2.083 -4.167)" fill="#fff"/>
+  </g>
+</svg>

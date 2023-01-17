@@ -1,0 +1,9 @@
+<svg id="Componente_32_2" data-name="Componente 32 – 2" xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Elipse_5" data-name="Elipse 5" fill="#82d4f3" stroke="#fff" stroke-width="5">
+    <circle cx="35" cy="35" r="35" stroke="none"/>
+    <circle cx="35" cy="35" r="32.5" fill="none"/>
+  </g>
+  <g id="Icon_awesome-check" data-name="Icon awesome-check" transform="translate(17 24.577)">
+    <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M12.227,30.9.527,19.2a1.8,1.8,0,0,1,0-2.546L3.073,14.1a1.8,1.8,0,0,1,2.546,0L13.5,21.986,30.382,5.1a1.8,1.8,0,0,1,2.546,0L35.473,7.65a1.8,1.8,0,0,1,0,2.546l-20.7,20.7A1.8,1.8,0,0,1,12.227,30.9Z" transform="translate(0 -4.577)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="Ícone_de_Esportes" data-name="Ícone de Esportes" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <circle id="Elipse_2" data-name="Elipse 2" cx="50" cy="50" r="50" fill="#0da1ff"/>
+  <g id="Icon_awesome-futbol" data-name="Icon awesome-futbol" transform="translate(25.781 25.781)">
+    <path id="Icon_awesome-futbol-2" data-name="Icon awesome-futbol" d="M50.781,25.781a25,25,0,1,1-25-25A25,25,0,0,1,50.781,25.781Zm-4.839,0v-.028l-2.627,2.292L37,22.148l1.659-8.5,3.458.31A20.2,20.2,0,0,0,31.961,6.581L33.337,9.8l-7.556,4.186L18.226,9.8,19.6,6.581A20.206,20.206,0,0,0,9.449,13.954l3.484-.31,1.632,8.5-6.318,5.9L5.62,25.753v.028A20.011,20.011,0,0,0,9.5,37.676l.777-3.417,8.582,1.053,3.659,7.845L19.5,44.95a20.346,20.346,0,0,0,12.558,0l-3.014-1.793,3.659-7.845,8.582-1.053.777,3.417A20.01,20.01,0,0,0,45.943,25.781Zm-25.01,7.013-3.014-9.2,7.862-5.7,7.863,5.7-2.986,9.2H20.932Z" transform="translate(-0.781 -0.781)" fill="#fff"/>
+  </g>
+</svg>

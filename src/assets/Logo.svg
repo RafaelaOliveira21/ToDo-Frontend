@@ -1,0 +1,6 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="138.017" height="70" viewBox="0 0 138.017 70">
+  <text id="ToD" transform="translate(0 55)" fill="#1700c2" font-size="59" font-family="HouschkaRounded-DemiBold, Houschka Rounded" font-weight="300"><tspan x="0" y="0">ToD</tspan></text>
+  <g id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" transform="translate(107 24.842)">
+    <path id="Icon_awesome-check-circle-2" data-name="Icon awesome-check-circle" d="M31.58,15.471c0,8.234-6.943,14.908-15.509,14.908S.562,23.7.562,15.471,7.506.563,16.071.563,31.58,7.237,31.58,15.471Zm-17.3,7.894L25.784,12.3a.936.936,0,0,0,0-1.36l-1.415-1.36a1.029,1.029,0,0,0-1.415,0L13.57,18.6,9.189,14.392a1.029,1.029,0,0,0-1.415,0l-1.415,1.36a.936.936,0,0,0,0,1.36l6.5,6.252a1.029,1.029,0,0,0,1.415,0Z" transform="translate(-0.563 -0.563)" fill="#1700c2"/>
+  </g>
+</svg>

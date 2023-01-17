@@ -1,0 +1,8 @@
+<svg id="Ícone_Avião" data-name="Ícone Avião" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Ícone_de_Esportes" data-name="Ícone de Esportes">
+    <circle id="Elipse_2" data-name="Elipse 2" cx="50" cy="50" r="50" fill="#0da1ff"/>
+  </g>
+  <g id="Icon_metro-airplane" data-name="Icon metro-airplane" transform="translate(25 25)">
+    <path id="Icon_metro-airplane-2" data-name="Icon metro-airplane" d="M41.07,33.926,32.144,25,53.57,8.928l-6.25-6.25L20.537,13.393,12.1,4.96C9.673,2.529,6.279,1.947,4.56,3.666S3.424,8.779,5.854,11.209l8.432,8.432L3.57,46.428l6.25,6.25L25.894,31.249l8.927,8.927v12.5h6.25L44.2,43.3l9.374-3.125v-6.25H41.07Z" transform="translate(-3.57 -2.678)" fill="#fff"/>
+  </g>
+</svg>

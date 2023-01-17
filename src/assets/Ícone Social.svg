@@ -1,0 +1,6 @@
+<svg id="Ícone_Social" data-name="Ícone Social" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <circle id="Elipse_2" data-name="Elipse 2" cx="50" cy="50" r="50" fill="#0da1ff"/>
+  <g id="Icon_material-people" data-name="Icon material-people" transform="translate(26 29)">
+    <path id="Icon_material-people-2" data-name="Icon material-people" d="M36.174,24.053a6.818,6.818,0,1,0-6.818-6.818,6.79,6.79,0,0,0,6.818,6.818Zm-18.182,0a6.818,6.818,0,1,0-6.818-6.818,6.79,6.79,0,0,0,6.818,6.818Zm0,4.545c-5.3,0-15.909,2.659-15.909,7.955v5.682H33.9V36.553c0-5.3-10.614-7.955-15.909-7.955Zm18.182,0c-.659,0-1.409.045-2.2.114,2.636,1.909,4.477,4.477,4.477,7.841v5.682H52.083V36.553c0-5.3-10.614-7.955-15.909-7.955Z" transform="translate(-2.083 -10.417)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="Ícone_de_Estudos" data-name="Ícone de Estudos" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Ícone_de_Esportes" data-name="Ícone de Esportes">
+    <circle id="Elipse_2" data-name="Elipse 2" cx="50" cy="50" r="50" fill="#0da1ff"/>
+  </g>
+  <g id="Icon_map-school" data-name="Icon map-school" transform="translate(25 22.25)">
+    <path id="Icon_map-school-2" data-name="Icon map-school" d="M32.435,8.609v35.87H6.348V8.609H32.435m4.348-4.348H2V49.913H36.783Zm-27.174,8.7H29.174V17.3H9.609Zm0,7.609H29.174v4.348H9.609Zm0,7.609H29.174v4.348H9.609Zm0,7.609H29.174V40.13H9.609ZM43.3,12.957H52V43.391H43.3ZM47.659,1A4.332,4.332,0,0,0,43.3,5.279V9.7H52V5.279A4.327,4.327,0,0,0,47.659,1ZM43.237,46.652l4.392,6.942L52,46.652Z" transform="translate(-2 -1)" fill="#fff"/>
+  </g>
+</svg>
