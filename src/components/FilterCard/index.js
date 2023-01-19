@@ -2,11 +2,11 @@ import React from "react";
 import * as Styled from "./styles";
 import Filter from "../../assets/Filter.png";
 
-function FilterCard() {
+function FilterCard({ title, actived }) {
   return (
-    <Styled.Container>
+    <Styled.Container actived={actived}>
       <img src={Filter} alt="Filter" />
-      <span>Todos</span>
+      <span>{title}</span>
     </Styled.Container>
   );
 }

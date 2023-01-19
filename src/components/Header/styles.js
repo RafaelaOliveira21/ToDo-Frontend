@@ -54,7 +54,7 @@ export const RightSide = styled.div`
     span {
       background: #ffffff;
       color: #1700c2;
-      padding: 3px 7px;
+      padding: 2px 6px;
       border-radius: 50%;
       position: relative;
       top: -20px;
